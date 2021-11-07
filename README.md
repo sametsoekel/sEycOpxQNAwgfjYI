@@ -1,3 +1,3 @@
 # sEycOpxQNAwgfjYI
 
-I ignored data paths which I created at PreparingData.ipynb
+I set an .gitignore file which ignores data paths which I created at PreparingData.ipynb
